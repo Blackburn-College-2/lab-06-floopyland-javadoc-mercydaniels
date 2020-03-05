@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"emptyjavaproject","l":"ConcreteController"},{"p":"emptyjavaproject","l":"genericHeroClass"},{"p":"emptyjavaproject","l":"Healer"},{"p":"emptyjavaproject","l":"Main"},{"p":"emptyjavaproject","l":"Ninja"},{"p":"emptyjavaproject","l":"Tanker"},{"p":"emptyjavaproject","l":"Thief"}]
